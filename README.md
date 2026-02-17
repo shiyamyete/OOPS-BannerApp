@@ -1,5 +1,14 @@
-# Compile the source code into bytecode
-javac OOPSBannerApp.java
 
-# Run the compiled class
-java OOPSBannerApp
+### Usage Instructions
+
+1.  **Save the file:** Create a file named `OOPSBannerApp.java`.
+2.  **Compile:**
+    ```bash
+    javac OOPSBannerApp.java
+    ```
+3.  **Run:**
+    ```bash
+    java OOPSBannerApp.java
+    ```
+
+---
